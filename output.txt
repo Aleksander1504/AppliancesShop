@@ -1,0 +1,81 @@
+Структура папок
+Серийный номер тома: C8A9-DE26
+C:.
+|   .htaccess
+|   add_dirs.php
+|   add_goods.php
+|   cart.php
+|   carthelper.php
+|   dirs.php
+|   enter.php
+|   exit.php
+|   guest.php
+|   index.php
+|   lists.php
+|   my_orders.php
+|   orders.php
+|   output.doc
+|   output.docx
+|   output.txt
+|   private.php
+|   products.php
+|   reg.php
+|   search.php
+|   session.txt
+|   srok.php
+|   stat.php
+|   update.php
+|   update_cat.php
+|   
++---img
+|   |   0052401_big_24618.jpg
+|   |   03-Love-in-Space.jpg
+|   |   100023618720b0.jpg
+|   |   29102059006_01.jpg
+|   |   background28.jpg
+|   |   bolshechem_violet.jpg
+|   |   cart.png
+|   |   checkmark-937x1024.png
+|   |   dea39f15.png
+|   |   logo.jpg
+|   |   pu29_1.jpg
+|   |   
+|   \---catalog
+|           0052401_big_24618.jpg
+|           03-Love-in-Space.jpg
+|           100023618720b0.jpg
+|           29102059006_01.jpg
+|           bolshechem_violet.jpg
+|           no-photo.jpg
+|           pu29_1.jpg
+|           
++---includes
+|   |   base.php
+|   |   templates.php
+|   |   
+|   \---center
+|           add_dirs.php
+|           add_goods.php
+|           cart.php
+|           dirs.php
+|           enter.php
+|           error.php
+|           guest.php
+|           index.php
+|           lists.php
+|           my_orders.php
+|           orders.php
+|           private.php
+|           products.php
+|           reg.php
+|           search.php
+|           srok.php
+|           stat.php
+|           update.php
+|           update_cat.php
+|           
+\---styles
+        blog.css
+        bootstrap.min.css
+        style.css
+        
